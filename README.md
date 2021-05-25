@@ -1,5 +1,5 @@
 # trafalgar
-## Mon prémier projet d'intégration :
+## Mon premier projet d'intégration :
 
 C'est un projet d'intégration d'un page d'atterissage ou landing page .
 
