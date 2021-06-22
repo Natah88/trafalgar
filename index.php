@@ -1,16 +1,18 @@
-<?php include "header.php" ?>
+<?php include "includes/header.php" ?>
 
 <div class="container">
 <!-- Début de la navbar -->
+    <!--début du LOGO-->
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
             <a class="navbar-brand" href="#">
                 <img src="images/logo.png" alt="logo-de-trafalgar">  
             </a>
         
-            <button class="navbar-toggler" type="button"        data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button"data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
+    <!--fin du Logo-->
         
             <div class="collapse navbar-collapse" id="navbarText">
                 <span class="navbar-nav me-auto mb-2 mb-lg-0"></span>
@@ -40,13 +42,15 @@
 </div>
 <!-- Fin de la navbar -->
 
+<!-- Début du hearder -->
+
     <div class="d-flex justify-content-right p-5">
         <img src="images\element.png" alt="" class="">
     </div>
 
-<div class="contenair">
+<div class="container">
     <div class="row mb-5">
-        <div class="d-flex align-items-center col-md-6 col-md-sm-12">
+        <div class="d-flex align-items-center   col-md-6 col-md-sm-12">
             <div class="row">
                 <div class="presentation col-md-8 col-sm-12">
                     <h1><b>Virtual healthcare for you.</b></h1>
@@ -60,7 +64,7 @@
         </div>
 
         <h2 class="center">Our services</h2>
-        <p class="center"><img src="images\underline.png" alt="" class=""></p>
+        <p class="center"><img src="images\underline.png" alt=""></p>
 
         <div class="container">
             <div class="text mb-5">
@@ -131,8 +135,10 @@
         <div class="d-flex align-items-center col-md-6 col-md-sm-12">
             <img src="images\illustration-body.png" alt="illustration-dans-body">
         </div>
+        
         <div class="body col-md-6 col-sm-12 p-5">
             <h1>Leading healthcare providers.</h1>
+            <p class=""><img src="images\underline.png" alt=></p>
             <p>Trafalgar provides progressive,<br> and affordable healthcare, <br> accessible on mobile and online for everyone.<br> To us, it’s not just work.<br> We take pride in the solutions we deliver.
             </p>
         </div>
@@ -141,40 +147,49 @@
     <div class="row mb-5">
         <div class="download col-md-6 col-sm-12">
             <h1>Download our mobile apps.</h1>
+            <p class="center"><img src="images\underline.png" alt=""></p>
             <p>Our dedicated patient engagement <br>app and web portal allow you to access  <br>information instantaneously <br>(no tedeous form, long calls, or <br>administrative hassle) and securely.</p>
         </div>
-        <div class="d-flex align-items-center col-md-6 col-md-sm-12"><img src="images\illustration-body-2.png" alt="illustration-dans-body">
+
+        <div class="d-flex align-items-center col-md-6 col-md-sm-12">
+            <img src="images\illustration-body-2.png" alt="illustration-dans-body">
         </div>
     </div>
 
     <div class="container">
         <div class="card mb-5 p-5 card-border-radius">
             <div class="card-body linear-gradient card-border-radius">
-                <h3 class="text-center card-title"><b>What our customer are saing
-                </b></h3>
+                <h3 class="text-center card-title"><b>What our customer are saing</b></h3>
 
-                <div class="element 4">
-                    <img src="images\element.png" alt="" class="">
-                </div>
-                
                 <div class="row">
                     <div class="mb-8 col-md-1 col-sm-0"></div>
+
+                    <div class="element-3">
+                        <img src="images\element-3.png" alt="">
+                    </div>
+
                     <div class="pic col-md-2 col-sm-6">
                         <img src="images\image-customer.png" alt="image-du-client">
                     </div>
+
                     <div class="mb-5 col-md-2 col-sm-6">
                         <p class="card-identity">
                             Edward Newgate <br>Founder Circle
                         </p>
                     </div>
-                    <div class="mb-5 col-md-1 col-sm-0">
-                    </div>
+
+                    <div class="mb-5 col-md-1 col-sm-0"></div>
+
                     <div class="mb-5 col-md-4 col-sm-12">            
                         <div class="card-text">
                             "Our dedicated patient engagement app and web portal allow you to access information instantaneously(no tedeous form, long calls, or administrative hassle) and securely”.
                         </div>
                     </div>
-                    <div class="mb-5 col-md-1 col-sm-0"></div>
+
+                    <div class="element-4 mb-5 col-md-1 col-sm-0"> 
+                        <img src="images\element-3.png" alt="">
+                    </div>
+
                 </div>
             </div>
         </div>
@@ -225,6 +240,6 @@
     <p class="button d-grid gap-1 col-1 mx-auto">
         <button type="button" class="btn btn-outline-primary">View all</button>
     </p>
-</div>>
-<?php include "footer.php" ?>
+</div>
+<?php include "includes/footer.php" ?>
 
