@@ -45,7 +45,7 @@
 <!-- Début du hearder -->
 
     <div class="d-flex justify-content-right p-5">
-        <img src="images\element.png" alt="" class="">
+        <img src="images/element.png" alt="" class="">
     </div>
 
 <div class="container">
@@ -64,7 +64,7 @@
         </div>
 
         <h2 class="center">Our services</h2>
-        <p class="center"><img src="images\underline.png" alt=""></p>
+        <p class="center"><img src="images/underline.png" alt=""></p>
 
         <div class="container">
             <div class="text mb-5">
@@ -75,14 +75,14 @@
             <div class="bord container">
                 <div class="row mb-5">
                     <div class="text-center col">
-                        <img src=images\slice-search-a-doctor.png alt="illustration-pour-rechercher">
+                        <img src="images/slice-search-a-doctor.png" alt="illustration-pour-rechercher">
                         <h3 class="services">Search doctor</h3>
                         <p>Choose your doctor from <br>thousands of specialist,<br> general, and trusted hospitals.
                         </p>
                     </div>
 
                     <div class="text-center col">
-                        <img src=images\online-pharmacy.png alt="illustration-pour-pharmacie">
+                        <img src="images/online-pharmacy.png" alt="illustration-pour-pharmacie">
                         <h3 class="services">Online pharmacy</h3>
                         <p>Buy  your medicines with our <br> mobile application with <br>a simple delivery system.
                         </p>
@@ -90,7 +90,7 @@
         
 
                     <div class="text-center col">
-                        <img src=images\consultation.png alt="illustration-pour-consultation">
+                        <img src="images/consultation.png" alt="illustration-pour-consultation">
                         <h3 class="services">Consultation</h3>
                         <p>Free consultation with our <br> trusted doctors and get<br> the best recomendations.
                         </p>
@@ -98,26 +98,26 @@
                 </div>
             </div>
             
-            <div class="element-2"><img src="images\element-2.png" alt="" ></div>
+            <div class="element-2"><img src="images/element-2.png" alt="" ></div>
 
             <div class="bord container">
                 <div class="row">
                     <div class="text-center col">
-                        <img src=images\details-info.png alt="illustration-pour-details-d-info">
+                        <img src="images/details-info.png" alt="illustration-pour-details-d-info">
                         <h3 class="services">Details info</h3>
                         <p>Free consultation with <br>our trusted doctors and get<br>the best recomendations.
                         </p>
                     </div>
 
                     <div class="text-center col">
-                        <img src=images\emergency-care.png alt="illustration-pour-le-soin-en-urgence">
+                        <img src="images/emergency-care.png" alt="illustration-pour-le-soin-en-urgence">
                         <h3 class="services">Emergency care</h3>
                         <p>You can get 24/7 urgent<br> care for yourself or your<br>children and your lovely family
                         </p>
                     </div>
 
                     <div class="text-center col">
-                        <img src=images\tracking.png alt="illustration-pour-le-suivi">
+                        <img src="images/tracking.png" alt="illustration-pour-le-suivi">
                         <h3 class="services">Tracking</h3>
                         <p>Track and save your medical<br> history and health data.
                         </p>
@@ -133,12 +133,12 @@
     
     <div class="row mb-5">
         <div class="d-flex align-items-center col-md-6 col-md-sm-12">
-            <img src="images\illustration-body.png" alt="illustration-dans-body">
+            <img src="images/illustration-body.png" alt="illustration-dans-body">
         </div>
         
         <div class="body col-md-6 col-sm-12 p-5">
             <h1>Leading healthcare providers.</h1>
-            <p class=""><img src="images\underline.png" alt=></p>
+            <p class=""><img src="images/underline.png" alt=></p>
             <p>Trafalgar provides progressive,<br> and affordable healthcare, <br> accessible on mobile and online for everyone.<br> To us, it’s not just work.<br> We take pride in the solutions we deliver.
             </p>
         </div>
@@ -147,12 +147,12 @@
     <div class="row mb-5">
         <div class="download col-md-6 col-sm-12">
             <h1>Download our mobile apps.</h1>
-            <p class="center"><img src="images\underline.png" alt=""></p>
+            <p class="center"><img src="images/underline.png" alt=""></p>
             <p>Our dedicated patient engagement <br>app and web portal allow you to access  <br>information instantaneously <br>(no tedeous form, long calls, or <br>administrative hassle) and securely.</p>
         </div>
 
         <div class="d-flex align-items-center col-md-6 col-md-sm-12">
-            <img src="images\illustration-body-2.png" alt="illustration-dans-body">
+            <img src="images/illustration-body-2.png" alt="illustration-dans-body">
         </div>
     </div>
 
@@ -165,11 +165,11 @@
                     <div class="mb-8 col-md-1 col-sm-0"></div>
 
                     <div class="element-3">
-                        <img src="images\element-3.png" alt="">
+                        <img src="images/element-3.png" alt="">
                     </div>
 
                     <div class="pic col-md-2 col-sm-6">
-                        <img src="images\image-customer.png" alt="image-du-client">
+                        <img src="images/image-customer.png" alt="image-du-client">
                     </div>
 
                     <div class="mb-5 col-md-2 col-sm-6">
@@ -187,7 +187,7 @@
                     </div>
 
                     <div class="element-4 mb-5 col-md-1 col-sm-0"> 
-                        <img src="images\element-3.png" alt="">
+                        <img src="images/element-3.png" alt="">
                     </div>
 
                 </div>
@@ -196,9 +196,9 @@
     </div>
     
     <div class="previous-next">
-        <img src="images\previous.png" alt="">
-        <img src="images\quatrepoint.png" alt="">
-        <img src="images\next.png" alt="">
+        <img src="images/previous.png" alt="">
+        <img src="images/quatrepoint.png" alt="">
+        <img src="images/next.png" alt="">
     </div>
 </div>
 
@@ -211,7 +211,7 @@
         <div class="row mb-5">
 
             <div class="col-md-4 col-sm-12">
-                <img src="images\img-col-1.png" alt="">
+                <img src="images/img-col-1.png" alt="">
                 <div class="text-card">
                     <h4>Disease detection, check up in the laboratory</h4>
                     <p>In this case, the role of the health laboratory is very important to do a disease detection.</p>
@@ -219,7 +219,7 @@
             </div>
 
             <div class="col-md-4 col-sm-12">
-                <img src="images\img-col-2.png" alt="">
+                <img src="images/img-col-2.png" alt="">
                 <div class="text-card">
                     <h4>Herbal medicines that are safe for consumption</h4>
                     <p>Herbal medicine is very widely used at this time because of its very good for your health.</p>
@@ -227,7 +227,7 @@
             </div>
 
             <div class="col-md-4 col-sm-12">
-                <img src="images\img-col-3.png" alt="">
+                <img src="images/img-col-3.png" alt="">
                 <div class="text-card">
                     <h4>Natural care for healthy facial skin</h4>
                     <p>A healthy lifestyle should start from now and also for your skin health.There are some</p>
